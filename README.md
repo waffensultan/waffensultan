@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waffenffs&label=Profile%20views&color=0e75b6&style=flat" alt="waffenffs" /> </p>
 
-- 🌱 I’m currently learning **Web Development, and DS&A**
+- 🌱 I’m currently learning **Frontend Development, and DS&A**
 
 - 📫 You can reach me at **waffen.sultanofc@gmail.com**
 
