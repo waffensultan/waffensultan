@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I'm a really big J.Cole fan. Jermaine? Cole?**
 
+- 🔎 I have an interest in problem solving
+
 - 🤝 I'm open to collaborating with others on projects
 
 <h3 align="left">Connect with me:</h3>
