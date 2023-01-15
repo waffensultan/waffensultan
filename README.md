@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, and DS&A**
 
-- 📫 How to reach me **waffen.sultanofc@gmail.com**
+- 📫 You can reach me at **waffen.sultanofc@gmail.com**
 
 - ⚡ Fun fact **I'm a really big J.Cole fan. Jermaine? Cole?**
 
