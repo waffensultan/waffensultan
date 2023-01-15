@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm a really big J.Cole fan. Jermaine? Cole?**
 
-- 🤝 I'm open to collaborating with others on projects.
+- 🤝 I'm open to collaborating with others on projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
