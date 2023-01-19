@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **waffen.sultanofc@gmail.com**
 
-- ⚡ Fun fact **I'm a really big J.Cole fan. Jermaine? Cole?**
+- ⚡ Fun fact: I code with vanilla Colemak.
 
 - 🔎 I have an interest in problem solving
 
