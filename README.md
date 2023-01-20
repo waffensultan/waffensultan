@@ -7,7 +7,6 @@
 
 - 📫 You can reach me at **waffen.sultanofc@gmail.com**
 
-- ⚡ Fun fact **I code and type on Colemak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
