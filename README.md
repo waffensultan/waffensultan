@@ -5,7 +5,7 @@
 
 - 🤝 I'm open to collaborating with others
 
-- 📫 How to reach me **waffen.sultanofc@gmail.com**
+- 📫 You can reach me at **waffen.sultanofc@gmail.com**
 
 - ⚡ Fun fact **I code and type on Colemak**
 
