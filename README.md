@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waffenffs&label=Profile%20views&color=0e75b6&style=flat" alt="waffenffs" /> </p>
-[![wakatime](https://wakatime.com/badge/user/5cbbc468-71e3-4365-9bf4-5927ca9399d5/project/b90622b4-fda2-4421-8ca9-45565acd562b.svg)](https://wakatime.com/badge/user/5cbbc468-71e3-4365-9bf4-5927ca9399d5/project/b90622b4-fda2-4421-8ca9-45565acd562b)
+<a href="https://wakatime.com/badge/user/5cbbc468-71e3-4365-9bf4-5927ca9399d5/project/b90622b4-fda2-4421-8ca9-45565acd562b"><img src="https://wakatime.com/badge/user/5cbbc468-71e3-4365-9bf4-5927ca9399d5/project/b90622b4-fda2-4421-8ca9-45565acd562b.svg" alt="wakatime"></a>
 
 - 🤝 I'm open to collaborating **with others**
 
