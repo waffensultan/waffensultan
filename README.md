@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waffenffs&label=Profile%20views&color=0e75b6&style=flat" alt="waffenffs" /> </p>
 
-<a href="https://wakatime.com/badge/github/Waffenffs/Waffenffs"><img src="https://wakatime.com/badge/github/Waffenffs/Waffenffs.svg" alt="wakatime"></a>
-
 - 🤝 I'm open to collaborating **with others**
 
 - 📫 You can reach me at **waffen.sultanofc@gmail.com**
