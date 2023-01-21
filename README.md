@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waffenffs&label=Profile%20views&color=0e75b6&style=flat" alt="waffenffs" /> </p>
 
-- 🤝 I'm open to collaborating **with others**
+- 🤝 I'm open to collaborating on projects with others
 
 - 📫 You can reach me at **waffen.sultanofc@gmail.com**
 
