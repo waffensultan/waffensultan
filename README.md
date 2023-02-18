@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💬 Ask me about anything.<br>📫 You can reach me at waffen.sultanofc@gmail.com<br>⚡ I'm currently learning DS&A on the side.<br>👨‍🎓 I'm currently an 11th grade student.
+<br>💬 Ask me about anything.<br>📫 You can reach me at waffen.sultanofc@gmail.com<br>👨‍🎓 I'm currently an 11th grade student.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wffnsltan) 
