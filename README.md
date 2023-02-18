@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waffenffs&label=Profile%20views&color=0e75b6&style=flat" alt="waffenffs" /> </p>
-
 # 💫 About Me:
 🤝 I’m looking to collaborate on projects.<br>💬 Ask me about anything.<br>📫 You can reach me at waffen.sultanofc@gmail.com<br>⚡ I'm currently learning DS&A on the side.
 
