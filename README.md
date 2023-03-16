@@ -9,6 +9,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Waffenffs&theme=dark&hide_border=false)<br/>
 
+[![Waffenffs' GitHub stats](https://github-readme-stats.vercel.app/api?username=waffenffs)](https://github.com/waffenffs/github-readme-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
