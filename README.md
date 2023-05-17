@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💬 Ask me about anything.<br>📫 You can reach me at waffen.sultanofc@gmail.com<br>👨‍🎓 I'm currently an 11th grade student.<br>💡 Let's solve problems on codewars: https://www.codewars.com/users/satis<br>🖌 Join me in realizing design challenges: https://www.icodethis.com/thatguy_Afin
+<br>💬 Ask me about anything.<br>📫 You can reach me at waffen.sultanofc@gmail.com<br>💡 Let's solve problems on codewars: https://www.codewars.com/users/satis<br>🖌 Join me in realizing design challenges: https://www.icodethis.com/thatguy_Afin
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wffnsltan) 
