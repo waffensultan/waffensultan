@@ -9,6 +9,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Waffenffs&theme=dark&hide_border=false)<br/>
 
+# ⌛ Hours Coding:
+[![wakatime](https://wakatime.com/badge/user/5cbbc468-71e3-4365-9bf4-5927ca9399d5.svg)](https://wakatime.com/@5cbbc468-71e3-4365-9bf4-5927ca9399d5)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
