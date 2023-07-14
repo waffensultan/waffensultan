@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my Github profile :) Feel free to reach out to me at waffen.sultanofc@gmail.com, I'm always down to collaborate and exchange ideas with people. I try to constantly hone my technical and problem-solving skills through sites such as CodeWars, LeetCode, and iCodeWars. That's all for me. Have fun.
+Hi! Welcome to my Github profile :) Feel free to reach out to me at waffen.sultanofc@gmail.com, I'm always down to collaborate and exchange ideas with people. I try to constantly hone my technical and problem-solving skills through sites such as [CodeWars](https://www.codewars.com/users/satis), [LeetCode](https://leetcode.com/Waffen/), and [iCodeThis](https://icodethis.com/thatguy_Afin). That's all for me. Have fun.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wffnsltan) 
