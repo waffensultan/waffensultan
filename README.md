@@ -3,7 +3,7 @@ Hi! 👋 Welcome to my Github profile :) Feel free to reach out to me at waffen.
 
 Two facts about me: 
 - I type and code in Colemak
-- I am currently the 106th fastest typist in [MonkeyType](https://monkeytype.com/)'s 60s All-Time leaderboard.
+- I am currently the 106th (Top 0.05%) fastest typist in [MonkeyType](https://monkeytype.com/)'s 60s All-Time leaderboard.
 
 That's all for me. Have fun!
 
