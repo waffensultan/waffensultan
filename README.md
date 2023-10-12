@@ -1,13 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=Waffenffs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hi! 👋 Welcome to my Github profile :) Feel free to reach out to me at waffen.sultanofc@gmail.com, I'm always down to collaborate and exchange ideas with people. I try to constantly hone my technical and problem-solving skills through sites such as [CodeWars](https://www.codewars.com/users/satis), [LeetCode](https://leetcode.com/wffnsltan/), and [iCodeThis](https://icodethis.com/thatguy_Afin). 
+Hi! 👋 Welcome to my Github profile :) Feel free to reach out to me at waffen.sultanofc@gmail.com, I'm always down to collaborate and exchange ideas with people. I try to constantly hone my technical and problem-solving skills through sites such as [CodeWars](https://www.codewars.com/users/satis), [LeetCode](https://leetcode.com/wffnsltan/), and [iCodeThis](https://icodethis.com/thatguy_Afin). One interesting (probably) fact about me is that I prefer typing/coding in Colemak.
 
-Two facts about me: 
-- I type and code in Colemak
-- I am currently the 106th (Top 0.05%) fastest typist in [MonkeyType](https://monkeytype.com/)'s 60s All-Time leaderboard.
-
-That's all for me. Have fun!
+That's all for me. Have a great day!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wffnsltan) 
