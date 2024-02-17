@@ -6,5 +6,3 @@ Hi! I'm an incoming freshman from the Philippines. Always open for collaboration
 - [LeetCode](https://leetcode.com/wffnsltan/)
 - [iCodeThis](https://icodethis.com/thatguy_Afin)
 - [LinkedIn](https://linkedin.com/in/wffnsltan)
-
-I use Neovim as my primary IDE (btw).
