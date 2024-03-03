@@ -1,4 +1,4 @@
-Hi! 👋 I'm an incoming freshman from the Philippines and a web enthusiast.
+Hi! 👋 I'm an incoming freshman from the Philippines and a web enthusiast. I code using the Semimak-JQC keyboard layout and I am a big fan of Vim motions.
 
 ### My socials
 - [CodeWars](https://www.codewars.com/users/satis)
