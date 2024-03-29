@@ -1,7 +1,7 @@
 Hi! 👋 I'm an incoming freshman from the Philippines and a web enthusiast. I am a big fan of Vim motions.
 
 ### My socials
-- [CodeWars](https://www.codewars.com/users/satis)
+- [CodeWars](https://www.codewars.com/users/Waffenffs)
 - [LeetCode](https://leetcode.com/wffnsltan/)
 - [iCodeThis](https://icodethis.com/thatguy_Afin)
 - [LinkedIn](https://linkedin.com/in/wffnsltan)
