@@ -1,4 +1,6 @@
-Hi! 👋 I'm a Software Developer from the Philippines, mostly interested in the web. Ever a big fan of Vim motions and also an enthusiast of alternative keyboard layouts!
+Hi! 👋 I'm a Software Developer from the Philippines, mostly interested in the web. 
+
+Ever a big fan of Vim motions and also an enthusiast of alternative keyboard layouts!
 
 ### My socials
 - [CodeWars](https://www.codewars.com/users/Waffenffs)
