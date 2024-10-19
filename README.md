@@ -2,6 +2,9 @@ Hi! 👋 I'm a Software Developer from the Philippines, mostly interested in the
 
 Ever a big fan of Vim motions and also an enthusiast of alternative keyboard layouts!
 
+### Open-Source Contributions
+- > [kabsu.me](https://github.com/bricesuazo/kabsu.me)
+
 ### My socials
 - [CodeWars](https://www.codewars.com/users/Waffenffs)
 - [LeetCode](https://leetcode.com/wffnsltan/)
