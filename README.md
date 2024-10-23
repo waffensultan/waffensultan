@@ -10,6 +10,7 @@ Ever a big fan of Vim motions and also an enthusiast of alternative keyboard lay
 - [LeetCode](https://leetcode.com/wffnsltan/)
 - [iCodeThis](https://icodethis.com/thatguy_Afin)
 - [LinkedIn](https://linkedin.com/in/wffnsltan)
+- [Dev.to](https://dev.to/waffenffs)
 
 ### You can reach out to me at:
 - Email 📪: [waffen.sultan](mailto:waffen.sultan@gmail.com)
