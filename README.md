@@ -15,10 +15,6 @@ Ever a big fan of Vim motions and also an enthusiast of alternative keyboard lay
 ### You can reach out to me at:
 - Email 📪: [waffen.sultan](mailto:waffen.sultan@gmail.com)
 
-### Currently I'm learning:
-- Java
-- Data Structures & Algorithms
-
 ---
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
