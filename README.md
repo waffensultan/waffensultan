@@ -13,7 +13,7 @@ Ever a big fan of Vim motions and also an enthusiast of alternative keyboard lay
 - [Dev.to](https://dev.to/waffenffs)
 
 ### You can reach out to me at:
-- Email 📪: [waffen.sultan](mailto:waffen.sultan@gmail.com)
+- Email ✉️: [waffen.sultan@gmail.com](mailto:waffen.sultan@gmail.com)
 
 ----
 ### Languages
