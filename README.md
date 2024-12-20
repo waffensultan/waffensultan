@@ -24,6 +24,3 @@ Ever a big fan of Vim motions and also an enthusiast of alternative keyboard lay
 
 ### Development and Deployment
 [![My Skills](https://skillicons.dev/icons?i=git,postman,figma,npm,vscode,neovim,github,vercel)](https://skillicons.dev)
-
-### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=waffensultan&theme=highcontrast&hide_current_streak=true)](https://git.io/streak-stats)
