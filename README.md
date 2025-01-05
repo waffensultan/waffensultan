@@ -2,17 +2,17 @@ Hi! 👋 I'm a Software Developer from the Philippines, mostly interested in the
 
 Ever a big fan of Vim motions and also an enthusiast of alternative keyboard layouts!
 
-### Open-Source Contributions
+### Open Source Contributions
 - > [kabsu.me](https://github.com/bricesuazo/kabsu.me)
 
-### My socials
+### You can find me on
 - [CodeWars](https://www.codewars.com/users/Waffenffs)
 - [LeetCode](https://leetcode.com/wffnsltan/)
 - [iCodeThis](https://icodethis.com/thatguy_Afin)
 - [LinkedIn](https://linkedin.com/in/wffnsltan)
 - [Dev.to](https://dev.to/waffenffs)
 
-### You can reach out to me at:
+### You can reach out to me at
 - Email ✉️: [waffen.sultan@gmail.com](mailto:waffen.sultan@gmail.com)
 
 ----
