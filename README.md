@@ -9,8 +9,8 @@ Ever a big fan of Vim motions and also an enthusiast of alternative keyboard lay
 - [CodeWars](https://www.codewars.com/users/Waffenffs)
 - [LeetCode](https://leetcode.com/wffnsltan/)
 - [iCodeThis](https://icodethis.com/thatguy_Afin)
-- [LinkedIn](https://linkedin.com/in/wffnsltan)
-- [Dev.to](https://dev.to/waffenffs)
+- [LinkedIn](https://linkedin.com/in/waffensultan)
+- [Dev.to](https://dev.to/waffensultan)
 
 ### You can reach out to me at
 - Email ✉️: [waffen.sultan@gmail.com](mailto:waffen.sultan@gmail.com)
