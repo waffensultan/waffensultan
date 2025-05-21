@@ -1,6 +1,6 @@
-Hi! 👋 I'm a Software Developer from the Philippines, mostly interested in the web. 
+I care about building and contributing to software with real-world impact.
 
-Ever a big fan of Vim motions and also an enthusiast of alternative keyboard layouts!
+Currently exploring blockchain and cloud.
 
 ### Open Source Contributions
 - > [kabsu.me](https://github.com/bricesuazo/kabsu.me)
