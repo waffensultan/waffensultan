@@ -1,4 +1,5 @@
 I build and contribute to software with real-world impact.
+
 Currently exploring blockchain and the cloud.
 
 ### Open Source Contributions
