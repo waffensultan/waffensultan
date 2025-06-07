@@ -1,6 +1,5 @@
-I care about building and contributing to software with real-world impact.
-
-Currently exploring blockchain and cloud.
+I build and contribute to software with real-world impact.
+Currently exploring blockchain and the cloud.
 
 ### Open Source Contributions
 - > [kabsu.me](https://github.com/bricesuazo/kabsu.me)
