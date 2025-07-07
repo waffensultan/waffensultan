@@ -17,7 +17,7 @@ Currently exploring blockchain and the cloud.
 
 ----
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,solidity)](https://skillicons.dev)
 
 ### Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,react,postgresql,tailwindcss,nextjs,express,firebase)](https://skillicons.dev)
