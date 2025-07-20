@@ -20,7 +20,7 @@ Currently exploring blockchain and the cloud.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,solidity)](https://skillicons.dev)
 
 ### Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,react,postgresql,tailwindcss,nextjs,express,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,react,postgresql,tailwindcss,nextjs,remix,express,firebase)](https://skillicons.dev)
 
 ### Development and Deployment
 [![My Skills](https://skillicons.dev/icons?i=git,postman,figma,npm,vscode,neovim,github,vercel)](https://skillicons.dev)
