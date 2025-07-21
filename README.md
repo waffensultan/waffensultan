@@ -1,4 +1,4 @@
-I build and contribute to software with real-world impact.
+I build and contribute to software with real-world impact. Vim is cool, and you probably should use it.
 
 Currently exploring blockchain and the cloud.
 
